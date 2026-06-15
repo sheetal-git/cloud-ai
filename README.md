@@ -21,12 +21,12 @@ An end-to-end framework and analysis focused on optimization, cost reduction, an
 
 ### Enterprise Storage Architecture & Overview
 A comprehensive technical deck built for enterprise stakeholders outlining modern storage topologies, scalability, and performance mapping.
-*   [View Presentation Slides](https://google.com) — Cloud-hosted presentation deck.
+*   [View Presentation Slides](https://docs.google.com/presentation/d/122nLHRmGnRMFUFj-u2P9hbfoYKJ01RtleKWh427_WF4/edit?usp=sharing) — Cloud-hosted presentation deck.
 
 ### Technical Reference Documentation & Whitepapers
 Architectural deep-dives and engineering best practices for enterprise-scale Oracle ZFS storage deployment.
-*   [Oracle ZFS Storage as a Data Lake](https://www.oracle.com/a/otn/docs/documentation/oracle-zfs-storage-as-a-data-laker.pdf) — Architectural blueprint for high-capacity data lake deployments.
-*   [Oracle ZFS Storage: Best-of-Breed Solution](https://www.oracle.com/a/otn/docs/oracle-zfs-storage-best-breed-solution.pdf) — Technical evaluation and optimization matrix.
+*   [Oracle ZFS Storage as a Data Lake](https://oracle.com) — Architectural blueprint for high-capacity data lake deployments.
+*   [Oracle ZFS Storage: Best-of-Breed Solution](https://oracle.com) — Technical evaluation and optimization matrix.
 
 ---
 
